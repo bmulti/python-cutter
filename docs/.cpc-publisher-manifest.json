@@ -1,0 +1,17 @@
+{
+  "files": [
+    "docs/content-assets.json",
+    "docs/cpc_python_cutter-brochure.htm",
+    "docs/en.html",
+    "docs/files/cpc_python_cutter-brochure.htm",
+    "docs/files/depth_lifter_learning_page.html",
+    "docs/files/learn.htm",
+    "docs/images/favicon-icon.png",
+    "docs/images/logo-logo.png",
+    "docs/images/poster-cpc-python-cutter-poster.webp",
+    "docs/images/splash-cpc-python-cutter-splash.webp",
+    "docs/index.html",
+    "docs/styles.css"
+  ],
+  "managed_by": "CPC GitHub Code Publisher"
+}
